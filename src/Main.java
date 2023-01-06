@@ -57,6 +57,7 @@ public class Main {
             System.out.println("Установите облегченную версию приложения для Android по ссылке");
         }
     }
+
     public static void task2_3() {
         //Задача 2_3 с применением Тернарного оператора
         System.out.println("Задача №2_3 с применением Тернарного оператора"); // 1 - android, 0 - iOS
